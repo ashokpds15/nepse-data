@@ -3,7 +3,7 @@ services:
   repo: https://github.com/ashokpds15/nepse-data
   name: nepse-data
   plan: free
-  branch: master
+  branch: main
   rootDir: .
   region: singapore
   env: python
